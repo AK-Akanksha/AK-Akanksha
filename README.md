@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AK-Akanksha
+- 👀 I’m interested in Robotics and IoT.
+- 🌱 I’m currently learning IoT projects and Robot simulation along desining in Autodesk Fusion 360.
+- 💞️ I’m looking to collaborate on robotics based projects.
+- 📫 How to reach me : ak.akankshaa@gmail.com
